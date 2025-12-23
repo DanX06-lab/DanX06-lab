@@ -8,7 +8,7 @@
 
 ## 🛠️ Tech Stack & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,mysql,R,python,node,mongodb" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,mysql,r,python,nodejs,mongodb" />
 </p>
 
 # Git Stats 📊
